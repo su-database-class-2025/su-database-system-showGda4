@@ -1,0 +1,7 @@
+.DS_Store
+docker/*
+postgis-osm/pop_data/*
+postgis-osm/JPN_adm/*
+postgis-osm/osm/*
+postgis-osm/sample/*
+postgis-osm/sql/*

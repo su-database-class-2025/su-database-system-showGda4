@@ -1,5 +1,6 @@
 #!/bin/sh
 unzip /work/data/pop_data/data/mesh1.zip -d /work/data/pop_data/data
+unzip /work/data/pop_data/data/prefs.zip -d /work/data/pop_data/data
 for entry in /work/data/pop_data/data/prefs/*/*/*/*.zip
 do
   echo $entry

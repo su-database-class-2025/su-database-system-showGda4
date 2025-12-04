@@ -1,0 +1,1 @@
+SELECT country_id, count(city) AS num_of_city FROM city GROUP BY country_id ORDER BY num_of_city DESC;

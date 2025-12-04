@@ -1,0 +1,1 @@
+SELECT * FROM store JOIN address ON store_id = address_id;

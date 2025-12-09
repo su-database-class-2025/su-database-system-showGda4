@@ -1,1 +1,1 @@
-SELECT * FROM store JOIN address ON store_id = address_id;
+SELECT * FROM store JOIN address ON store.address_id = address.address_id;
